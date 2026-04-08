@@ -19,7 +19,7 @@
 ## 🚀 Getting Started
 
    ```bash
-   git clone https://github.com/CyberlordSY/GetMusic-Lite.git
+   git clone https://github.com/DevWithSiddharth/GetMusic-Lite.git
    cd GetMusic-Lite
    ```
 
